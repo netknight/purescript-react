@@ -1,8 +1,23 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+And then updated with Purescript integration using Craco.
 
-## Available Scripts
+## Installation
+
+Install purescript globally (optional): 
+`npm install -g purescript`
+
+Install spago package manager globally (optional):
+`npm install -g spago`
+
+## Available spago scripts
+
+Build: `spago build`
+
+Tests: `spago test`
+
+## Available Scripts (npm)
 
 In the project directory, you can run:
 
