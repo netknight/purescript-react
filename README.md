@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-And then updated with Purescript integration using Craco.
+Then updated with Purescript integration using Craco.
+See this URL for full tutorial: https://thomashoneyman.com/articles/replace-react-components-with-purescript/
 
 ## Installation
 
